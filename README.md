@@ -31,3 +31,6 @@ I've started this project to help better understand what my day to day work will
 1. Combine the class for benefit-lead h3, benefit-brand h3, benefit-cost h3 to benefit-all h3
 2. Combine the class for benefit-lead, benefit-brand, benefit-cost to benefit-all
 3. Combine the class for benefit-lead img, benefit-brandimg img, benefit-cost img to benefit-all img
+
+## Adding alt to each image
+1. Added alt to each image 
