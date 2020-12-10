@@ -13,6 +13,11 @@ I've started this project to help better understand what my day to day work will
 [github screenshot](assets/images/github-pages.png)
 
 
-##How I Got The "Search Engine Optimization" Link To Work
+## How To Get The "Search Engine Optimization" Link To Work
 1. I notice the "Search Engine Optimization" line of code was set to an id but was labeled as a class in the link text.
 2. Simply changing the code over from class= to id= did the trick.
+
+## Combining CSS Properties For The Class For Benefit
+1. Combine the class for benefit-lead h3, benefit-brand h3, benefit-cost h3 to benefit-all h3
+2. Combine the class for benefit-lead, benefit-brand, benefit-cost to benefit-all
+3. Combine the class for benefit-lead img, benefit-brandimg img, benefit-cost img to benefit-all img
