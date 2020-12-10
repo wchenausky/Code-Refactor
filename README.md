@@ -10,4 +10,9 @@ I've started this project to help better understand what my day to day work will
 5. Set your URL through github using your github username and the name of the project.
 6. Click to add a "README.md file"
 
-[alt text](assets/images/github-pages.png)
+[github screenshot](assets/images/github-pages.png)
+
+
+##How I Got The "Search Engine Optimization" Link To Work
+1. I notice the "Search Engine Optimization" line of code was set to an id but was labeled as a class in the link text.
+2. Simply changing the code over from class= to id= did the trick.
