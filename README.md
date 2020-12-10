@@ -17,8 +17,10 @@ I've started this project to help better understand what my day to day work will
 1. I noticed the "Search Engine Optimization" line did not have an id
 2. Add the id to navigate to the "search Engine Optimizaion" section.
 
-## Add Class In HTML to Search Engine Optimization
-1.  Add class="services"
+## Add Class Tag And Change Exiting Class Tag In HTML To Help Consoliate CSS Properties
+1.  Add class tag class=service to search engine opimization
+2. Change class tag online-rputation-managment to class=services
+3. Change class tag social-media-marketing to class=services
 
 ## Combining CSS Propertirs For The Class For Services
 1. Combine the class for search-engine-optimization, online-reputation-managment, social-media-marketin to be all inclusive to the class .services
