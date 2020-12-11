@@ -77,3 +77,10 @@ I've started this project to help better understand what my day to day work will
 [html with articles](assets/images/html-with-article.png)
 
 
+## Credits
+
+* Marisa NeSmith 
+ (https://github.com/marisanesmith)
+
+ * W3 Schools
+ (https://www.w3schools.com/)
