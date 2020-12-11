@@ -56,7 +56,24 @@ I've started this project to help better understand what my day to day work will
 [after alt tags](assets/images/after-alt-tags.png)  
 
 ## Resize Image "digital-marketing-meeting"
-1. Resized the image to a lower pixel rate to help with initial loading time of the webpage.
+1. Resized the image to a lower pixel ratio to reduce loading time.
 2. This can be done with most image editors
 3. Rename the image as a resize and replace the old image.
+
+## Removing divs and adding sections
+1. Identify groups of elements with similar properties.
+2. Relabel them as sections instead of divs to allow more accesbility for the user.
+
+[html with divs](assets/images/html-with-divs.png)  
+
+[html with sections](assets/images/html-with-sections.png)  
+
+## Removing divs and adding articles
+1. Within the sections identify the articles (notice their headers and paragrahs)
+2. Change the div to article to allow more understanding to the user.
+
+[html without articles](assets/images/html-without-articles.png)  
+
+[html with articles](assets/images/html-with-articles.png)
+
 
