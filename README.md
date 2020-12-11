@@ -17,7 +17,8 @@ I've started this project to help better understand what my day to day work will
 1. I noticed the "Search Engine Optimization" line did not have an id
 2. Add the id to navigate to the "search Engine Optimizaion" section.
 
-[search engine optimization no id](assets/images/search-class.png)
+[search engine optimization no id](assets/images/search-class.png)  
+
 [search engine optimization with added id](assets/images/added-class-services.png)
 
 ## Add Class Tag And Change Exiting Class Tag In HTML To Help Consoliate CSS Properties
@@ -25,7 +26,8 @@ I've started this project to help better understand what my day to day work will
 2. Change class tag online-rputation-managment to class=services
 3. Change class tag social-media-marketing to class=services
 
-[before class=services](assets/images/added-no-class-service.png)
+[before class=services](assets/images/added-no-class-service.png)  
+
 [after class=services](assets/images/no-cass-service.png)
 
 ## Combining CSS Propertirs For The Class For Services
@@ -33,7 +35,8 @@ I've started this project to help better understand what my day to day work will
 2. Combine the class for search-engine-optimization h2, online-reputation-managment h2, social-media-marketing h2.to be all inclusive to the class .services h2
 3. Combine the class for search-engine-optimization img, online-reputation-managment img, social-media-marketing img to be all inclusive to the class .services img.
 
-[before css .services](assets/images/css-without-services.png)
+[before css .services](assets/images/css-without-services.png)  
+
 [after css .services](assets/images/css-with-services.png)
 
 ## Combining CSS Properties For The Class For Benefit
@@ -41,14 +44,16 @@ I've started this project to help better understand what my day to day work will
 2. Combine the class for benefit-lead, benefit-brand, benefit-cost to benefit-all
 3. Combine the class for benefit-lead img, benefit-brandimg img, benefit-cost img to benefit-all img
 
-[before combining](assets/images/benefits-not-combined.png)
+[before combining](assets/images/benefits-not-combined.png)  
+
 [after combining](assets/images/benefits-combined.png)
 
 ## Adding alt tags to each image
 1. Add alt tags to each image to help with accessibility for the seeing impaired by sinply using alt= "" with a brief description of what the image is.
 
-[before alt tags](assets/images/before-alt-tags.png)
-[after alt tags](assets/images/after-alt-tags.png)
+[before alt tags](assets/images/before-alt-tags.png)  
+
+[after alt tags](assets/images/after-alt-tags.png)  
 
 ## Resize Image "digital-marketing-meeting"
 1. Resized the image to a lower pixel rate to help with initial loading time of the webpage.
