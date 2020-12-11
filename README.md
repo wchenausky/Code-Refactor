@@ -2,16 +2,12 @@
 
 I've started this project to help better understand what my day to day work will be like once I'm in the field. Here I've been given a set of HTML and CSS with some errors in them. I will go through step by step of how I fixed these errors and gave the wedsite a live URL.
 
-## Steps For Giving The Webite A Stand Alone URL
-1. Open Github.com
-2. Open the repository for project
-3. Open the settings link
-4. Scroll down towards the bottom till you see "Git Hub Pages"
-5. Set your URL through github using your github username and the name of the project.
-6. Click to add a "README.md file"
+## Table of Contents
+[Changing Title of Website](#ChaangingTitleofWebsite)  
 
-[github screenshot](assets/images/github-pages.png)
 
+## Chaanging Title of Website
+1. Change the title of the website to reflect the name of the company
 
 ## How To Get The "Search Engine Optimization" Link To Work
 1. I noticed the "Search Engine Optimization" line did not have an id
@@ -30,7 +26,23 @@ I've started this project to help better understand what my day to day work will
 
 [after class=services](assets/images/no-cass-service.png)
 
-## Combining CSS Propertirs For The Class For Services
+## Removing divs and adding sections
+1. Identify groups of elements with similar properties.
+2. Relabel them as sections instead of divs to allow more accesbility for the user.
+
+[html with divs](assets/images/html-with-divs.png)  
+
+[html with sections](assets/images/html-with-sections.png)  
+
+## Removing divs and adding articles
+1. Within the sections identify the articles (notice their headers and paragrahs)
+2. Change the div to article to allow more understanding to the user.
+
+[html without articles](assets/images/html-without-articles.png)  
+
+[html with articles](assets/images/html-with-article.png)  
+
+## Combining CSS Properties For The Class For Services
 1. Combine the class for search-engine-optimization, online-reputation-managment, social-media-marketin to be all inclusive to the class .services
 2. Combine the class for search-engine-optimization h2, online-reputation-managment h2, social-media-marketing h2.to be all inclusive to the class .services h2
 3. Combine the class for search-engine-optimization img, online-reputation-managment img, social-media-marketing img to be all inclusive to the class .services img.
@@ -48,6 +60,11 @@ I've started this project to help better understand what my day to day work will
 
 [after combining](assets/images/benefits-combined.png)
 
+## Resize Image "digital-marketing-meeting"
+1. Resized the image to a lower pixel ratio to reduce loading time.
+2. This can be done with most image editors
+3. Rename the image as a resize and replace the old image.
+
 ## Adding alt tags to each image
 1. Add alt tags to each image to help with accessibility for the seeing impaired by sinply using alt= "" with a brief description of what the image is.
 
@@ -55,26 +72,15 @@ I've started this project to help better understand what my day to day work will
 
 [after alt tags](assets/images/after-alt-tags.png)  
 
-## Resize Image "digital-marketing-meeting"
-1. Resized the image to a lower pixel ratio to reduce loading time.
-2. This can be done with most image editors
-3. Rename the image as a resize and replace the old image.
+## Steps For Giving The Webite A Stand Alone URL
+1. Open Github.com
+2. Open the repository for project
+3. Open the settings link
+4. Scroll down towards the bottom till you see "Git Hub Pages"
+5. Set your URL through github using your github username and the name of the project.
+6. Click to add a "README.md file"
 
-## Removing divs and adding sections
-1. Identify groups of elements with similar properties.
-2. Relabel them as sections instead of divs to allow more accesbility for the user.
-
-[html with divs](assets/images/html-with-divs.png)  
-
-[html with sections](assets/images/html-with-sections.png)  
-
-## Removing divs and adding articles
-1. Within the sections identify the articles (notice their headers and paragrahs)
-2. Change the div to article to allow more understanding to the user.
-
-[html without articles](assets/images/html-without-articles.png)  
-
-[html with articles](assets/images/html-with-article.png)
+[github screenshot](assets/images/github-pages.png)
 
 
 ## Credits
