@@ -3,13 +3,22 @@
 I've started this project to help better understand what my day to day work will be like once I'm in the field. Here I've been given a set of HTML and CSS with some errors in them. I will go through step by step of how I fixed these errors and gave the wedsite a live URL.
 
 ## Table of Contents
-[Changing Title of Website](#ChaangingTitleofWebsite)  
+* [Changing Title of Website](#Changing-Title-of-Website)  
+* [How To Get The Search Engine Optimization Link To Work](#How-To-Get-The-Search-Engine-Optimization-Link-To-Work)
+* [Add Class Tag And Change Existing Class Tag In HTML To Help Consoliate CSS Properties](#Add-Class-Tag-And-Change-Existing-Class-Tag-In-HTML-To-Help-Consoliate-CSS-Properties)
+* [Removing divs and adding sections](#Removing-divs-and-adding-sections)
+* [Removing divs and adding articles](#Removing-divs-and-adding-articles)
+* [Combining CSS Properties For The Class For Services](#Combining-CSS-Properties-For-The-Class-For-Services)
+* [Combining CSS Properties For The Class For Benefit](#Combining-CSS-Properties-For-The-Class-For-Benefit)
+* [Resize Image "digital-marketing-meeting"](#Resize-Image-"digital-marketing-meeting")
+* [Adding alt tags to each image](#Adding-alt-tags-to-each-image)
+* [Steps For Giving The Webite A Stand Alone URL](#Steps-For-GivingThe-Webite-A-Stand-Alone-URL)
 [Credits](Credits)
 
 ## Chaanging Title of Website
 1. Change the title of the website to reflect the name of the company
 
-## How To Get The "Search Engine Optimization" Link To Work
+## How To Get The Search Engine Optimization Link To Work
 1. I noticed the "Search Engine Optimization" line did not have an id
 2. Add the id to navigate to the "search Engine Optimizaion" section.
 
@@ -17,7 +26,7 @@ I've started this project to help better understand what my day to day work will
 
 [search engine optimization with added id](assets/images/added-class-services.png)
 
-## Add Class Tag And Change Exiting Class Tag In HTML To Help Consoliate CSS Properties
+## Add Class Tag And Change Existing Class Tag In HTML To Help Consoliate CSS Properties
 1.  Add class tag class=service to search engine opimization
 2. Change class tag online-rputation-managment to class=services
 3. Change class tag social-media-marketing to class=services
