@@ -4,7 +4,7 @@ I've started this project to help better understand what my day to day work will
 
 ## Table of Contents
 [Changing Title of Website](#ChaangingTitleofWebsite)  
-
+[Credits](Credits)
 
 ## Chaanging Title of Website
 1. Change the title of the website to reflect the name of the company
