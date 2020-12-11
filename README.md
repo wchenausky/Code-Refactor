@@ -15,7 +15,7 @@ I've started this project to help better understand what my day to day work will
 * [Steps For Giving The Webite A Stand Alone URL](#Steps-For-GivingThe-Webite-A-Stand-Alone-URL)
 [Credits](Credits)
 
-## Chaanging Title of Website
+## Changing Title of Website
 1. Change the title of the website to reflect the name of the company
 
 ## How To Get The Search Engine Optimization Link To Work
