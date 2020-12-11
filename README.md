@@ -13,7 +13,7 @@ I've started this project to help better understand what my day to day work will
 * [Resize Image "digital-marketing-meeting"](#Resize-Image-"digital-marketing-meeting")
 * [Adding alt tags to each image](#Adding-alt-tags-to-each-image)
 * [Steps For Giving The Webite A Stand Alone URL](#Steps-For-GivingThe-Webite-A-Stand-Alone-URL)
-[Credits](#Credits)
+* [Credits](#Credits)
 
 ## Changing Title of Website
 1. Change the title of the website to reflect the name of the company
