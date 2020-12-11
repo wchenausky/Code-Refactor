@@ -74,6 +74,6 @@ I've started this project to help better understand what my day to day work will
 
 [html without articles](assets/images/html-without-articles.png)  
 
-[html with articles](assets/images/html-with-articles.png)
+[html with articles](assets/images/html-with-article.png)
 
 
