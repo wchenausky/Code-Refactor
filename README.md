@@ -17,6 +17,8 @@ I've started this project to help better understand what my day to day work will
 1. I noticed the "Search Engine Optimization" line did not have an id
 2. Add the id to navigate to the "search Engine Optimizaion" section.
 
+[search engine optimization no id](assets/images/search-class.png)
+
 ## Add Class Tag And Change Exiting Class Tag In HTML To Help Consoliate CSS Properties
 1.  Add class tag class=service to search engine opimization
 2. Change class tag online-rputation-managment to class=services
@@ -33,4 +35,10 @@ I've started this project to help better understand what my day to day work will
 3. Combine the class for benefit-lead img, benefit-brandimg img, benefit-cost img to benefit-all img
 
 ## Adding alt to each image
-1. Added alt to each image 
+1. Add alt tags to each image to help with accessibility for the seeing impaired by sinply using alt= "" with a brief description of what the image is.
+
+## Resize Image "digital-marketing-meeting"
+1. Resized the image to a lower pixel rate to help with initial loading time of the webpage.
+2. This can be done with most image editors
+3. Rename the image as a resize and replace the old image.
+
