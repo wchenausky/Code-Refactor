@@ -91,6 +91,8 @@ I've started this project to help better understand what my day to day work will
 
 ![github screenshot](assets/images/github-pages.png)
 
+https://wchenausky.github.io/Code-Refactor/
+
 
 ## Credits
 
