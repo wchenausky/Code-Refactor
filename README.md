@@ -12,7 +12,7 @@ I've started this project to help better understand what my day to day work will
 * [Combining CSS Properties For The Class For Benefit](#Combining-CSS-Properties-For-The-Class-For-Benefit)
 * [Resize Image "digital-marketing-meeting"](#Resize-Image-"digital-marketing-meeting")
 * [Adding alt tags to each image](#Adding-alt-tags-to-each-image)
-* [Steps For Giving The Webite A Stand Alone URL](#Steps-For-GivingThe-Webite-A-Stand-Alone-URL)
+* [Steps For Giving The Webite A Stand Alone URL](#Steps-For-Giving-The-Webite-A-Stand-Alone-URL)
 * [Credits](#Credits)
 
 ## Changing Title of Website
