@@ -33,7 +33,7 @@ I've started this project to help better understand what my day to day work will
 
 ![before class=services](assets/images/added-no-class-service.png)  
 
-![after class=services](assets/images/no-cass-service.png)
+![after class=services](assets/images/no-class-service.png)
 
 ## Removing divs and adding sections
 1. Identify groups of elements with similar properties.
