@@ -31,7 +31,7 @@ I've started this project to help better understand what my day to day work will
 2. Change class tag online-rputation-managment to class=services
 3. Change class tag social-media-marketing to class=services
 
-![before class=services](assets/images/added-class-service.png)  
+![before class=services](assets/images/added-class-services.png)  
 
 ![after class=services](assets/images/no-class-services.png)
 
