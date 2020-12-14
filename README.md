@@ -106,7 +106,12 @@ https://wchenausky.github.io/Code-Refactor/
 ## Credits
 
 * Marisa NeSmith 
+
  (https://github.com/marisanesmith)
+
+ ## License
+ 
+ /github/license/:user/:repo
 
  * W3 Schools
  (https://www.w3schools.com/)
