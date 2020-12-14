@@ -15,6 +15,7 @@ I've started this project to help better understand what my day to day work will
 * [Adding alt tags to each image](#Adding-alt-tags-to-each-image)
 * [Steps For Giving The Webite A Stand Alone URL](#Steps-For-Giving-The-Webite-A-Stand-Alone-URL)
 * [Credits](#Credits)
+* [Licesne](#License)
 
 ## Changing Title of Website
 1. Change the title of the website to reflect the name of the company
@@ -109,9 +110,9 @@ https://wchenausky.github.io/Code-Refactor/
 
  (https://github.com/marisanesmith)
 
- ## License
- 
- /github/license/:user/:repo
-
- * W3 Schools
+* W3 Schools
  (https://www.w3schools.com/)
+
+  ## License
+ 
+ (https://img.shields.io/github/license/wchenausky/Code-Refactor)
