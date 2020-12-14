@@ -1,6 +1,6 @@
 # Code Refactor
 
-I've started this project to help better understand what my day to day work will be like once I'm in the field. Here I have been given a set of HTML and CSS with some errors in them. I will go through step by step of how I fixed these errors and helped clean up some of the undeeded code. As well as giving the website it's own URL.
+I've started this project to help better understand what my day to day work will be like once I'm in the field. Here I have been given a set of HTML and CSS with some errors in them. I will go through step by step of how I fixed these errors and helped clean up some of the unneeded code. As well as giving the website it's own URL.
 
 ## Table of Contents
 * [Changing Title of Website](#Changing-Title-of-Website)  
@@ -10,6 +10,7 @@ I've started this project to help better understand what my day to day work will
 * [Removing divs and adding articles](#Removing-divs-and-adding-articles)
 * [Combining CSS Properties For The Class For Services](#Combining-CSS-Properties-For-The-Class-For-Services)
 * [Combining CSS Properties For The Class For Benefit](#Combining-CSS-Properties-For-The-Class-For-Benefit)
+* [Rearranging CSS Properties In The style.css To Reflect html.index](#Rearranging-CSS-Properties-In-The-style.css-To-Reflect-html.index)
 * [Resize Image "digital-marketing-meeting"](#Resize-Image-"digital-marketing-meeting")
 * [Adding alt tags to each image](#Adding-alt-tags-to-each-image)
 * [Steps For Giving The Webite A Stand Alone URL](#Steps-For-Giving-The-Webite-A-Stand-Alone-URL)
@@ -67,7 +68,15 @@ I've started this project to help better understand what my day to day work will
 
 ![before combining](assets/images/benefits-not-combined.png)  
 
-![after combining](assets/images/benefits-combined.png)
+![after combining](assets/images/benefits-combined.png)  
+
+## Rearranging CSS Properties In The style.css To Reflect html.index
+1. In style.css move .content under .hero
+2. Move .services, .services img, .services h2, under .content
+3. Move paragrpah in between .services h2 and float-left.
+
+![before rearrange](assets/images/before-rearrange-css.png)  
+![after rearrange](assets/images/after-rearrange-css.png)
 
 ## Resize Image "digital-marketing-meeting"
 1. Resized the image to a lower pixel ratio to reduce loading time.
